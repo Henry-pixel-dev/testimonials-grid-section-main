@@ -11,11 +11,13 @@ This is a solution to the **Testimonials Grid Section** challenge on [Frontend M
 
 ## ✨ Live Preview
 
-[View Project Live](#) <!-- Replace # with your live link later -->
+[View Project Live](https://github.com/Henry-pixel-dev/testimonials-grid-section-main.git) 
+
+## GitHub Repository
+
+[Click to view code on GitHub](https://henry-pixel-dev.github.io/testimonials-grid-section-main/)
 
 ## 📸 Screenshot
-
-![Screenshot](./screenshot.jpg) <!-- Optional -->
 
 ## 🧠 What I Learned
 
